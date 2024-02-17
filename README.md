@@ -1,1 +1,1 @@
-# Data-Structures-Python
+This repository provides implementations and examples of various data structures in Python. Data structures are fundamental components of computer science and software development, enabling efficient organization, manipulation, and storage of data.
